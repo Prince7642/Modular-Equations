@@ -66,12 +66,12 @@ def numberOfPossibleWays(P, Q):
     # main()
 
 
-P = 45
-Q = 5
+P = 26
+Q = 2
 numberOfPossibleWays(P, Q)
 
-P = 36
-Q = 7
+P = 21
+Q = 5
 numberOfPossibleWays(P, Q)
 
 # Contributed by _omg
