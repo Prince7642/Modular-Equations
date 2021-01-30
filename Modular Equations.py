@@ -45,7 +45,7 @@ def numberOfPossibleWaysUtil(P, Q):
     # greater than Q
 
     noOfDivisors = 0
-    noOfDivisors = calculateDivisors;
+    noOfDivisors = calculateDivisors(P, Q);
     return noOfDivisors
 
 
